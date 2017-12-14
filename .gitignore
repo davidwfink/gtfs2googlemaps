@@ -1,0 +1,5 @@
+out*.txt
+.vscode
+gtfs.zip
+gtfs/*
+apikey.sh

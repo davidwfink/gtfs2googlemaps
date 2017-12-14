@@ -1,0 +1,1 @@
+GOOGLE_MAPS_API_KEY=AIzaSyCqAC5kWAWhak6zCjzwJNQSL9Ulp1DwYJ8 PYTHONIOENCODING=utf-8:surrogateescape python process.py > out.txt
